@@ -11,19 +11,36 @@ Last update: 30.04.2024
 1. Velkopopovický Kozel. Цена: 60-70 вечно деревянных
 
    1.1. Светлое
+
+    <img alt="Velkopopovický Kozel" src="https://images.untp.beer/crop?width=310&amp;height=310&amp;stripmeta=true&amp;url=https://untappd.s3.amazonaws.com/photos/2024_04_28/9384a77ca7df497652407c7938354fbf_c_1376161628_raw.jpg" width="200">
+
+
      - Отзыв: Нормис пиво, но нам больше нравится тёмное.
 
    1.2. Тёмное
+
+    <img alt="Velkopopovický Kozel Černý Black Beer" src="https://live.staticflickr.com/8438/7862787536_687d32074f_c.jpg" width="200">
+
      - Отзыв: Неплохое пиво за свои деньги, но между тёмныи Козлом и Крушовицей выбираем Крушовицу.
 
-2. Krušovice. Цена: 70 дублонов
+3. Krušovice. Цена: 70 дублонов
    2.1. Светлое
+
+    <img alt="KRUSOVICE SVETLE ROYAL" src="https://avatars.dzeninfra.ru/get-zen_doc/9722138/pub_6447dd396a7f1550bab1ad68_6447df56ed98161f4830898c/scale_1200" width="200">
+
+
      - Отзыв: Лучше звони.. купите Козла
    
    2.2. Тёмное
+
+     <img alt="KRUSOVICE CERNE ROYAL" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/KrusoviceBier-P4120017.JPG" width="200">
+
      - Отзыв: Подойдёт для ежедневных пивных употреблений. Цена не кусается, вкус нормальный, ничего особенного.
 
 4. Phoenix(медовуха), double tree, posh всё одна фигня. Цена: 90 слаянских
+
+    <img alt="White phoenix" src="https://avatars.dzeninfra.ru/get-zen_doc/1680084/pub_627cc71bde39192f98a72b6c_627cc9aede39192f98ae5900/scale_1200" width="310">
+
    3.1. Вишня
      - Отзыв: Рыжего кумарит только так, приятненькая, но обычная вишная.
    
@@ -73,6 +90,9 @@ Last update: 30.04.2024
     - Отзыв: весьма неплохой эль, несколько бутылочек выпиваются с удовольствием
 
 15. Liebenweiss. Цена: 110 Баварцев
+
+      <img alt="Liebenweiss Hefe Weissbier" src="https://images.untp.beer/crop?width=310&amp;height=310&amp;stripmeta=true&amp;url=https://untappd.s3.amazonaws.com/photos/2024_04_13/ccffd2b1f71c77c4bb3d6ed92ef6f20d_c_1371914664_raw.jpg" width="200">
+
     - Отзыв: Очень неплохое пиво, но и стоит дороже. Dunkel немного горький, но всё остальное очень вкусно, особенно рекомендуем пшеничку.
    
 16. Chester's(медовуха/сидр). Цена: 90
@@ -84,7 +104,10 @@ Last update: 30.04.2024
 ## Что-то на полубогатом(иногда можно и побаловать себя):
 
 1. Guinness. Цена: 250
-   - Отзыв: Горький стаут, приколдес с азотной капсулой. В общем вкусное пиво, но лучше брать его в баре, чем в банке.
+
+ <img alt="Guinness" src="https://images.untp.beer/crop?width=320&height=420&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_30/3a58713d7c625c898e891c01e1bf3f82_c_1376617623_raw.jpg" width="200">
+ 
+   - Отзыв: Горький стаут, приколдес с азотной капсулой. В общем вкусное пиво, но лучше брать его в баре, чем в банке. Без стакана пить невозможно.
 
 2. Бакунин. Цена: 200-300
    2.1. Смузи
